@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Hind');
+
+
+body {
+	background: 	#F9CF0B;
+	padding: 0;
+	margin: 0;
+}
+#cabecalho{
+	margin: 0;
+	padding: 2px;;
+}
+
+.tituloSite {
+	text-align: center;
+	margin:250px;
+	padding: 0;
+	
+	
+}
+
+.tituloSite h1{
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 0pt;
+	margin-bottom: 0px;
+	font-size: 60pt;
+
+}
+
+.tituloSite h4{
+	font-family: 'Hind', sans-serif;
+	margin-top: 0px;
+	margin-left: 530px;
+}
+
+.tituloSite img {
+	width: 250px;
+	right: auto;
+	margin-bottom: 0px;
+}
+#body{
+	text-align: center;
+	margin: 240px 0 0 0;
+	position: relative;
+	padding: 0;
+	
+}
+
+#body1 {
+	padding: 40px 0 0 0 ;
+		
+}
+#body1 img{
+	width: 450px;
+	right: auto;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+#body1 h1 {
+	font-family: 'Ubuntu',sans-serif;
+	font-size: 30px;
+}
+
+#body1 p {
+	font-family:'Hind', sans-serif;
+	text-align: justify;
+	line-height: 1.5;
+	font-weight: bold;
+	padding: 0;
+	margin: 50px 160px 20px 160px;
+	
+}
+#menuLateral{
+	position: fixed;  right: -5px; bottom: 40%;
+	background-color: black;
+	width: 70px;
+	height: 140px;
+	padding: 0;
+	margin: 0;
+}
+
+#menulateral ul  {
+	color: #F9CF0B;
+	
+	
+	text-align: left;
+	padding: 5px 0 0 5px;
+	margin: 0;
+}
+#menulateral ul a{
+	text-decoration: none;
+	list-style:none;
+	color: #F9CF0B;
+} 
+
+#menulateral ul li {
+	padding: 5px;
+	Margin: 10px 0 10px 0;
+	font-size: 8PT;
+	font-family: 'Hind', sans-serif;
+}
+
+#body2 {
+	padding:10px 0 0 0;
+	
+}
+
+#body2 img {
+	text-align: center;
+	margin-top: 10px;
+	width: 800px;
+	height: 600px;
+	margin: 0;
+}
+
+#body2 h1{
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	margin-top: 100px;
+	font-size: 30pt;
+}
+
+#tel1 {
+	position: absolute;
+	
+	margin: 0;
+	padding: 0;
+	left: 700px;
+	top: 945px;
+}
+#tel1 p {
+	color: #F9CF0B;;
+	font-family: 'Hind', sans-serif;
+	font-size: 32pt;
+	margin: 0;
+	padding: 0;
+}
+
+#email {
+	position: absolute;
+	
+	margin: 0;
+	padding: 0;
+	left: 410px;
+	top: 1085px;
+}
+#email p {
+	color: #F9CF0B;;
+	font-family: 'Hind', sans-serif;
+	font-size: 25pt;
+	margin: 0;
+	padding: 0;
+	
+}
+
+#formulario {
+	position: absolute;
+	
+	margin: 0;
+	padding: 0;
+	left: 780px;
+	top: 1205px;
+}
+#formulario p {
+	color: #F9CF0B;;
+	font-family: 'Hind', sans-serif;
+	font-size: 25pt;
+	margin: 0;
+	padding: 0;
+	
+}
