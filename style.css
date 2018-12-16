@@ -36,7 +36,7 @@ body {
 
 .tituloSite img {
 	width: 250px;
-	right: auto;
+	right: 100vh;
 	margin-bottom: 0px;
 }
 #body{
